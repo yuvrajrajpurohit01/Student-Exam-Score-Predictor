@@ -1,11 +1,11 @@
 # Student Exam Score Predictor
 
-A concise machine learning project that predicts a student's final exam score based on lifestyle and study-related factors such as study hours, sleep duration, phone usage, and daily habits. This project includes a complete end-to-end ML workflow along with an interactive Streamlit web app. 
+A concise machine learning project that predicts a student's final exam score based on lifestyle and study-related factors such as study hours, Attendance , sleep duration, mental health , and daily habits. This project includes a complete end-to-end ML workflow along with an interactive Streamlit web app. 
 
 ---
 
 ## Project Overview
-This project builds a regression model that learns patterns from student lifestyle data and predicts exam performance. It demonstrates practical machine learning concepts including EDA, preprocessing, model training, hyperparameter tuning, and deployment.
+This project builds a regression model that learns patterns from students Habit data and predicts exam performance. It demonstrates practical machine learning concepts including EDA, preprocessing, model training, hyperparameter tuning, and deployment.
 
 ---
 
